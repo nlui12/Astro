@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654865132707",
+    "project_id": "astro-f150c",
+    "storage_bucket": "astro-f150c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654865132707:android:56db2f487426c482aea316",
+        "android_client_info": {
+          "package_name": "com.example.astro_nicklui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654865132707-dm1s25k8jkvnrp41q9tgk7vt7icrroi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyIxqLY0z2pCvDfuU_lZXc86TsGl_mFxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654865132707-dm1s25k8jkvnrp41q9tgk7vt7icrroi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

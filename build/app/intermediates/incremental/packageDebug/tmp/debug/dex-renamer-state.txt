@@ -1,0 +1,7 @@
+#Mon May 10 22:15:51 PDT 2021
+base.0=/home/kinglui/Desktop/Astro/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/kinglui/Desktop/Astro/build/app/intermediates/dex/debug/mergeProjectDexDebug/classes.dex

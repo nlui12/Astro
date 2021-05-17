@@ -4,7 +4,7 @@
             "outputFile": "/home/kinglui/Desktop/Astro/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
             "map": [
                 {
-                    "source": "/home/kinglui/.gradle/caches/transforms-2/files-2.1/d481b4719f34ec119768e958e701eaf6/core-1.1.0/res/values-pt/values-pt.xml",
+                    "source": "/home/kinglui/.gradle/caches/transforms-2/files-2.1/f4a15a5606c9a028857d8a3e89eefa0f/core-1.1.0/res/values-pt/values-pt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

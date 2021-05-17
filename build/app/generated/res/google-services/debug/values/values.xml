@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">654865132707-dm1s25k8jkvnrp41q9tgk7vt7icrroi6.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">654865132707</string>
+    <string name="google_api_key" translatable="false">AIzaSyCyIxqLY0z2pCvDfuU_lZXc86TsGl_mFxg</string>
+    <string name="google_app_id" translatable="false">1:654865132707:android:56db2f487426c482aea316</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCyIxqLY0z2pCvDfuU_lZXc86TsGl_mFxg</string>
+    <string name="google_storage_bucket" translatable="false">astro-f150c.appspot.com</string>
+    <string name="project_id" translatable="false">astro-f150c</string>
+</resources>
